@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 # MySensors-Domoticz controller - JSON and Hardcoded sensors
 # uses local python dictionary DB for storage of sensors, values and updates
 
