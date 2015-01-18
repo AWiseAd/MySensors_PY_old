@@ -1,0 +1,32 @@
+[
+{
+"Node": 2, 
+"LastUpdate": null, 
+"NodeInfo": "AWI-LCD-Repeat 2", 
+"Domoticz_id": 0, 
+"Dcz_Type": "D_SWITCH", 
+"Child": 1, 
+"Reading": 12, 
+"Type": "S_MOTION"
+}, 
+{
+"Node": 2, 
+"LastUpdate": "2015-01-18 08:23:16", 
+"NodeInfo": "AWI-LCD-Repeat 2", 
+"Domoticz_id": 0, 
+"Dcz_Type": "D_T_H_B", 
+"Child": 2, 
+"Reading": "1011.0", 
+"Type": "S_BARO"
+}, 
+{
+"Node": 2, 
+"LastUpdate": "2015-01-18 08:22:04", 
+"NodeInfo": "AWI-LCD-Repeat 2", 
+"Domoticz_id": 26, 
+"Dcz_Type": "D_TEMP", 
+"Child": 3, 
+"Reading": "16.8", 
+"Type": "S_TEMP"
+}
+]
